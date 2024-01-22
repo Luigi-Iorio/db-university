@@ -71,7 +71,7 @@ laurea (286)
     Query:
 
     SELECT
-        COUNT(`id`) AS "numero_dipartimenti"
+        COUNT(`id`) AS `numero_dipartimenti`
     FROM
         `departments`;
 
@@ -80,6 +80,6 @@ laurea (286)
     Query:
 
     SELECT
-        COUNT(`phone` = "NULL") AS "insegnanti_senza_numero"
+        COUNT(`phone` = "NULL") AS `insegnanti_senza_numero`
     FROM
         `teachers`;
