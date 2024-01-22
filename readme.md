@@ -25,3 +25,11 @@ L'obiettivo principale è fornire una base solida per la gestione dei dati relat
 ### Diagramma
 
 ![diagramma](img/diagram-university.png)
+
+## Query
+
+### Descrizione
+
+Dopo aver creato un nuovo database in phpMyAdmin e aver importato lo schema fornito, sono state eseguite delle query.
+
+Le query da eseguire con le relative risposte sono presenti nel file query.txt.
